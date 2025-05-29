@@ -2,6 +2,9 @@
 ## Project Overview
 This project showcases a Hospital Emergency Room (ER) Dashboard created using Microsoft Excel with advanced features such as Power Query, Power Pivot, and Pivot Charts. The goal is to analyze hospital ER data and extract meaningful insights that can assist in improving decision-making and patient care.
 
+![image](https://github.com/user-attachments/assets/93694150-8126-41fc-8334-6a95166bb42d)
+
+
 ## Dashboard Highlights 
 The dashboard provides visual and interactive insights on:
 •	✅ Patient Admission Status – Compares the number of patients admitted vs. not admitted. <br />
