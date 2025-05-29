@@ -12,7 +12,7 @@ The dashboard provides visual and interactive insights on:
 
 ## Tools & Features Used
 
-•	Microsoft Excel
+•	Microsoft Excel <br />
 o	✅ Power Query – for importing, cleaning, and transforming data.<br />
 o	✅ Power Pivot – for creating a robust data model and relationships. <br />
 o	✅ Pivot Tables & Charts – for dynamic reporting and visualization. <br />
