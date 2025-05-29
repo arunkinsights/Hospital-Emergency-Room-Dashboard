@@ -19,16 +19,16 @@ o	✅ Pivot Tables & Charts – for dynamic reporting and visualization. <br />
 o	✅ Slicers – for easy and interactive filtering. <br />
 
 ## Skills Demonstrated 
-•	Data Cleaning and Transformation
-•	Data Modeling with Power Pivot
-•	Creating Interactive Dashboards in Excel
-•	Visual Storytelling with Pivot Charts and Slicers
-•	Real-world Healthcare Data Analysis
+•	Data Cleaning and Transformation <br />
+•	Data Modeling with Power Pivot <br />
+•	Creating Interactive Dashboards in Excel <br />
+•	Visual Storytelling with Pivot Charts and Slicers <br />
+•	Real-world Healthcare Data Analysis <br />
 
 ## Let's Connect
-If you find this project interesting or helpful, feel free to connect or follow me on:
-•	🌐 Digital Infovision Website https://digitalinfovision.com/
-•	📊 GitHub Profile
-•	💼 LinkedIn https://www.linkedin.com/in/arunkinsights/
+If you find this project interesting or helpful, feel free to connect or follow me on: <br />
+•	🌐 Website https://digitalinfovision.com/ <br />
+•	📊 GitHub Profile https://github.com/arunkinsights <br />
+•	💼 LinkedIn https://www.linkedin.com/in/arunkinsights/ <br />
 
 
